@@ -1,0 +1,35 @@
+Admin
+----------
+Login,
+View All Users And Authorize,
+View Friend Request And Responses,
+Add Filter,
+View All Friends Polling,
+View All Total Pollings,
+View All Positive Negative Pollings,
+View Polling Results,
+View Polling Rate Results.
+
+
+User
+-----------
+Register and Login,
+View My Profile and Total Pollings,
+Search Friend, 
+View Friend Request, 
+View All My Friends and Poll Opinion,
+View All Your Opinion Polling Details.
+
+
+Members
+---------
+
+Friend ID,
+Your Name,
+Polled Opinion,
+Rating,
+Polled User,
+Polled Date and Time.
+
+
+
